@@ -1,3 +1,3 @@
-Started doing weekday challenges:
+Started doing weekday LeetCode challenges:
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/esoltys?theme=light&font=Noto%20Sans&ext=heatmap)](https://leetcode.com/u/esoltys/)
