@@ -2,4 +2,4 @@ Started doing [LeetCode challenges](https://leetcode.com/u/esoltys/) and made it
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/esoltys?theme=light&font=Noto%20Sans&ext=heatmap)](https://leetcode.com/u/esoltys/)
 
-I've been creating a series of weather-related code experiments. I usually spend a morning or an afternoon on them. Trying different data source APIs and visualizers: OpenWeatherMap, Copernicus Data Store (CDS), and the NOAA Climate Data Online (CDO). You'll find them pinned below.
+I recently worked on a series of small weather-related code experiments, dedicating my mornings or afternoons to them. I explored various data store APIs like OpenWeatherMap, Copernicus Data Store (CDS), and the NOAA Climate Data Online (CDO). Additionally, I experimented with visualizers such as Apache ECharts and Esri ArcGIS. You'll find them pinned below.
