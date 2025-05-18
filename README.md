@@ -1,1 +1,1 @@
-Stopped actively participating in [LeetCode](https://leetcode.com/u/esoltys/) Sep 30, 2024 at Rank 172,967 (Top 4%). Might still do the occasional challenge.
+Stopped actively participating in [LeetCode](https://leetcode.com/u/esoltys/) Sep 30, 2024 at Rank 172,967 (Top 4%) with TypeScript solutions. I've recently resumed daily challenges but using C# for practice.
