@@ -1,1 +1,1 @@
-Participated in [LeetCode](https://leetcode.com/u/esoltys/) Typescript challenges in 2024, but switched to C# in 2025 for practice. Currently ranked in the Top 3%. I've stopped doing the daily challenges, but will take on a hard challenge from time-to-time.
+Participated in [LeetCode](https://leetcode.com/u/esoltys/) Typescript challenges in 2024, but switched to C# in 2025 for practice. Currently ranked in the Top 3% and coding in Python. I've stopped doing the daily challenges, but will take on a hard challenge from time-to-time.
