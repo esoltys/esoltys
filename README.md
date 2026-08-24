@@ -4,7 +4,7 @@ Senior software developer with 20+ years building web products, currently focuse
 desktop apps and AI agents — mostly at the intersection of software and music.
 
 **Currently building**
-- [luminous](https://github.com/esoltys/luminous) — a fast, native desktop music player (Rust/Tauri + Svelte), built to be a good home for the music you already own. Available on the [Microsoft Store](https://apps.microsoft.com/detail/9PNQ2NFSQ7XW).
+- [luminous](https://github.com/esoltys/luminous) — a high-performance home for the music you already own (Rust/Tauri + Svelte). Available on the [Microsoft Store](https://apps.microsoft.com/detail/9PNQ2NFSQ7XW).
 
 **Also on here**
 - [cadence-music-assistant](https://github.com/esoltys/cadence-music-assistant) — a conversational AI agent for musicians and students: ask a theory question, build a score, hear it, all without switching tools.
