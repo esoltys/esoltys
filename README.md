@@ -4,7 +4,7 @@ Senior software developer with 20+ years building web products, currently focuse
 
 **Currently building**
 - [Luminous Music Player](https://github.com/esoltys/luminous) — a high-performance home for the music you already own (Rust/Tauri + Svelte). Available on the [Microsoft Store](https://apps.microsoft.com/detail/9PNQ2NFSQ7XW).
-- [PowerQuota](https://github.com/esoltys/PowerQuota) - A Windows-native extension for PowerToys Command Palette and the PowerToys Dock that tracks AI coding quotas.
+- [PowerQuota](https://github.com/esoltys/PowerQuota) - A Windows-native extension for PowerToys Command Palette and the PowerToys Dock that tracks AI coding quotas. Available on the [Microsoft Store]([https://apps.microsoft.com/detail/9PNQ2NFSQ7XW](https://apps.microsoft.com/detail/9NP7BBL8695W)).
 
 **Also on here**
 - [cadence-music-assistant](https://github.com/esoltys/cadence-music-assistant) — a conversational AI agent for musicians and students: ask a theory question, build a score, hear it, all without switching tools.
