@@ -1,10 +1,9 @@
 ### Hi, I'm Eric
 
-Senior software developer with 20+ years building web products, currently focused on
-desktop apps and AI agents — mostly at the intersection of software and music.
+Senior software developer with 20+ years building web products, currently focused on desktop apps and AI agents — mostly at the intersection of software and music.
 
 **Currently building**
-- [luminous](https://github.com/esoltys/luminous) — a high-performance home for the music you already own (Rust/Tauri + Svelte). Available on the [Microsoft Store](https://apps.microsoft.com/detail/9PNQ2NFSQ7XW).
+- [Luminous Music Player](https://github.com/esoltys/luminous) — a high-performance home for the music you already own (Rust/Tauri + Svelte). Available on the [Microsoft Store](https://apps.microsoft.com/detail/9PNQ2NFSQ7XW).
 - [PowerQuota](https://github.com/esoltys/PowerQuota) - A Windows-native extension for PowerToys Command Palette and the PowerToys Dock that tracks AI coding quotas.
 
 **Also on here**
