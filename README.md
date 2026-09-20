@@ -3,7 +3,7 @@
 Senior software developer with 20+ years building web products, currently focused on desktop apps and AI agents — mostly at the intersection of software and music.
 
 **Currently building**
-- [Luminous Music Player](https://github.com/esoltys/luminous) — A high-performance home for the music you already own. Luminous is a fast, local-first player for your own audio library — no streaming, no subscriptions, no cloud. (Rust/Tauri + Svelte). Available on the [Microsoft Store](https://apps.microsoft.com/detail/9PNQ2NFSQ7XW).
+- [Luminous Music Player](https://github.com/esoltys/luminous) — A high-performance home for the music you already own. Luminous is a fast, local-first player for your own audio library. (Rust/Tauri + Svelte). Available on the [Microsoft Store](https://apps.microsoft.com/detail/9PNQ2NFSQ7XW).
 - [Luminous MCP](https://github.com/esoltys/luminous-mcp) - A MCPB package of an MCP server, tools, and skills to interact with the Luminous Music Player.
 - [PowerQuota](https://github.com/esoltys/PowerQuota) - A Windows-native extension for PowerToys Command Palette and Dock that tracks AI coding quotas. (.NET 10) Available on the [Microsoft Store](https://apps.microsoft.com/detail/9NP7BBL8695W).
 
